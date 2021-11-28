@@ -24,15 +24,20 @@ Both X and Y consist of lower case letters and the character '?'.
 Sample Input 1 
 
 2
+
 s?or?
+
 sco??
+
 stor?
+
 sco??
 
 
 Sample Output 1
 
 Yes
+
 No
 
 
